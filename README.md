@@ -57,3 +57,7 @@ I'll meticulously analyze the gathered requirements to identify key features and
 Today, I'll focus on designing the architecture of the ERP system. This includes defining the database structure, module interactions, and user interface design.
 I'll sketch out data models, schemas, and relationships for each module to ensure seamless integration.
 I will start working on low-fid design
+
+
+
+Low-fid design(Still in development): https://www.figma.com/file/dxv6VTcIuTbLAddKkCa86v/Untitled?type=design&node-id=0%3A1&mode=design&t=kewTUJY2dzUBwx7C-1
