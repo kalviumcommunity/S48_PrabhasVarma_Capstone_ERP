@@ -60,4 +60,10 @@ I will start working on low-fid design
 
 
 
-Low-fid design(Still in development): https://www.figma.com/file/dxv6VTcIuTbLAddKkCa86v/Untitled?type=design&node-id=0%3A1&mode=design&t=kewTUJY2dzUBwx7C-1
+
+## **Day 4: Lowfid**
+
+Today I'll focus on finishing low fid in depth for two of the four modules in my capstone project. Also create a basic outline for all the four modules and sidebar. 
+
+
+Low-fid design(Still in development): https://www.figma.com/file/dxv6VTcIuTbLAddKkCa86v/Untitled?type=design&node-id=0%3A1&mode=design&t=UkyRo5Y5oFTkHuFq-1
