@@ -3,6 +3,7 @@ const express = require('express');
 const mongoose = require("mongoose");
 const app = express();
 const port =  3000;
+const {invoiceModel,joiInvoiceSchema}=require("./schema/invoiceSchema")
 
 
 const mongoDbUri = process.env.MONGODB_URL;
