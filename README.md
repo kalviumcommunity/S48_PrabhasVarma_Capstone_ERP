@@ -57,5 +57,5 @@ I'll meticulously analyze the gathered requirements to identify key features and
 Today, I'll focus on designing the architecture of the ERP system. This includes defining the database structure, module interactions, and user interface design.
 I'll sketch out data models, schemas, and relationships for each module to ensure seamless integration.
 I will start working on low-fid design
-
-
+ 
+backend deployment link: https://s48-prabhasvarma-capstone-erp.onrender.com
