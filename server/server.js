@@ -17,6 +17,16 @@ app.get('/ping', (req,res)=> {
   res.json({message:"suiii"});
 })
 
+app.get("/invoices", async (req, res) => {  try {
+    const invoices = await invoiceModel.find();
+    res.json(invoices); 
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Error fetching invoices" });
+  }
+});
+
+
 Connection().then(() => {
     app.listen(port, () => {
       console.log(`🚀 server running on PORT: ${port}`);
