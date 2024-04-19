@@ -58,4 +58,4 @@ Today, I'll focus on designing the architecture of the ERP system. This includes
 I'll sketch out data models, schemas, and relationships for each module to ensure seamless integration.
 I will start working on low-fid design
  
-backend deployment link: https://s48-prabhasvarma-capstone-erp.onrender.com
+backend deployment link: https://s48-prabhasvarma-capstone-erp-1.onrender.com/
