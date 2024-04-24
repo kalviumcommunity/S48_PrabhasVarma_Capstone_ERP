@@ -53,3 +53,6 @@ By freeing up time and resources, the ERP system empowers software companies to 
 
  
 backend deployment link: https://s48-prabhasvarma-capstone-erp-1.onrender.com/
+
+
+flowchart link : https://www.figma.com/file/0YhXEumFXGo3EQNjOdXPgL/Untitled?type=whiteboard&node-id=0%3A1&t=5PYF0TejXJuf7rQt-1
