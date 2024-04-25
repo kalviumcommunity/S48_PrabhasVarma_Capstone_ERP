@@ -56,3 +56,6 @@ backend deployment link: https://s48-prabhasvarma-capstone-erp-1.onrender.com/
 
 
 flowchart link : https://www.figma.com/file/0YhXEumFXGo3EQNjOdXPgL/Untitled?type=whiteboard&node-id=0%3A1&t=5PYF0TejXJuf7rQt-1
+
+
+highfid-link (still in process): https://www.figma.com/file/krKJMf05vIObmoMu3Fzp9x/Erp--high-fid?type=design&node-id=43%3A2&mode=design&t=NICK3hT2323Qh0H9-1
