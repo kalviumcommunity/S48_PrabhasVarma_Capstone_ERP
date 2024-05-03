@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Trifecta Connetct</h1>
+      <h1>Trifecta Connect</h1>
       <Loginpage />
     </>
   )
