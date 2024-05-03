@@ -1,5 +1,3 @@
-// Login.page.js
-
 import React, { useState, useEffect } from 'react';
 import './LoginPage.css';
 import MetaMaskTatumButton from './Metamask/MetaMaskButton.jsx'
@@ -25,7 +23,6 @@ function Loginpage() {
  <>{isMetaMaskConnected?
   null
  :
-
      <MetaMaskTatumButton onConnect={handleMetaMaskConnect} />
 
 
