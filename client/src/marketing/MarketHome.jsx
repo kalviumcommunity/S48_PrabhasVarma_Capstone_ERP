@@ -1,4 +1,5 @@
 import * as React from "react";
+import { Link } from "react-router-dom";
 import '../App.css'
 
 
@@ -13,7 +14,7 @@ function MarketHome() {
         />
         <div className="flex gap-5 justify-between my-auto">
           <div>Home</div>
-          <div>About</div>
+          <Link to="/MarketAbout" className="cursor-pointer">About</Link>           
           <div>Contact</div>
         </div>
       </div>

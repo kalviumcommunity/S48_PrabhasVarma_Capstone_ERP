@@ -1,17 +1,17 @@
-import { useState } from 'react'
-import Loginpage from "./loginPage/LoginPage";
-import MarketHome from "./marketing/MarketHome"
-import './App.css'
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import MarketHome from "./marketing/MarketHome";
+import MarketAbout from "./marketing/MarketAbout";
 
 function App() {
-
   return (
-    <>
-      {/* <h1>Trifecta Connect</h1>
-      <Loginpage /> */}
-      <MarketHome/>
-    </>
-  )
+    <Router>
+      <Routes>
+        <Route path="/" element={<MarketHome />} />
+        <Route path="/MarketAbout" element={<MarketAbout />} />
+      </Routes>
+    </Router>
+  );
 }
 
-export default App
+export default App;
