@@ -15,7 +15,7 @@ function MarketHome() {
         <div className="flex gap-5 justify-between my-auto">
           <div>Home</div>
           <Link to="/MarketAbout" className="cursor-pointer">About</Link>           
-          <div>Contact</div>
+          <Link to="/MarketContact" className="cursor-pointer">Contact</Link>
         </div>
       </div>
       <div className="flex flex-col items-center self-center px-5 mt-20 w-full max-w-[743px] max-md:mt-10 max-md:max-w-full">

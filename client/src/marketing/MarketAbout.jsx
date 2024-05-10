@@ -13,7 +13,7 @@ function MarketAbout() {
         <div className="flex gap-5 justify-between my-auto">
         <Link to="/" className="cursor-pointer">Home</Link>           
           <div>About</div>
-          <div>Contact</div>
+          <Link to="/MarketContact" className="cursor-pointer">Contact</Link>
         </div>
       </div>
       <div className="flex flex-col items-center px-20 mt-28 w-full text-yellow-700 max-md:px-5 max-md:mt-10 max-md:max-w-full">
